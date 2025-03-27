@@ -1,6 +1,8 @@
 ##Algumas dicas úteis ou não para o github
+##Some tips usefull or not for github
 
 #Conectar VSCODE ou VSCodium ao Github
+#Connect VSCODE or VSCodium to GitHub
 
 Instalar a extensão:
 
