@@ -12,3 +12,8 @@ Crtl + p, e cole a linha abaixo
 
 Login, no ícone esquedo em baixo.
 
+Abrir um terminal
+Open a terminal
+
+    git config --global user.name "yourusername"
+    config --global user.email "youremail"
