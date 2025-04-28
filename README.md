@@ -17,3 +17,5 @@ Open a terminal
 
     git config --global user.name "yourusername"
     config --global user.email "youremail"
+
+chmod +x 
